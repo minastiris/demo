@@ -1,1 +1,2 @@
-EZ egy új fájl a lokálisban van conflict
+EZ egy új fájl a lokálisban. ez egy szerveren módosítás.
+
